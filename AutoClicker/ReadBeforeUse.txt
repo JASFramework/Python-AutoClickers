@@ -16,9 +16,20 @@ These keys can be changed
 To kill the program, go to the terminal and press Ctrl + C.
 ___
 
+
+How To Start:
+
+If you are using Windows, 
+1. Remove the first line of each program. 
+2. Just click the file twice like a normal .exe.
+
+If you are using Linux, 
+1. Open your terminal in the folder the AutoClickers are in. 
+2. Enter Root. Type "su" then type your password. 
+3. Finally, type "./FileName"
+
 NOTE: 
 If you run these AutoClickers with a terminal, They will always run in the background. (It eats memory and CPU power)
 
 To kill the program, restart your computer. 
-
 
