@@ -1,0 +1,24 @@
+
+AutoClicker1 was made by both K450 (Stack Overflow) and JAS.
+
+It has both a start key (Shift) and a kill key (Esc). 
+
+These keys can be changed
+___
+
+
+AutoClicker2 was made by both Henry (Stack Overflow) and JAS.
+
+It has both a start key (s) and a resume key (r). 
+
+These keys can be changed
+
+To kill the program, go to the terminal and press Ctrl + C.
+___
+
+NOTE: 
+If you run these AutoClickers with a terminal, They will always run in the background. (It eats memory and CPU power)
+
+To kill the program, restart your computer. 
+
+
